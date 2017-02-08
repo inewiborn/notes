@@ -7,3 +7,6 @@
 
 ###### 5 способов использования подчеркивания (\_) в Python
 https://tproger.ru/translations/5-ways-of-using-underscore-in-python/
+
+###### Подборка всего и вся
+http://pep8.ru/
