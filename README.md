@@ -1,3 +1,3 @@
 # Заметки
 
-#### [python](/python)
+#### [python](/python/index.md)
