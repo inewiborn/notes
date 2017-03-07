@@ -9,6 +9,10 @@
 
 * https://habrahabr.ru/company/ods/blog/322626/
 
+###### Работа с изображением(Контрастность, Сепия, Негатив, Оттенки серого...)
+
+* http://haru-atari.com/ru/blog/26/write-elementary-image-filters-in-python
+
 ###### 5 способов использования подчеркивания (\_) в Python
 https://tproger.ru/translations/5-ways-of-using-underscore-in-python/
 
