@@ -1,0 +1,7 @@
+###### Цикл статей про PHPUnit
+
+* http://devacademy.ru/posts/rukovodstvo-po-modul-nomu-tiestirovaniiu-chast-i-vviedieniie-v-phpunit/
+* http://devacademy.ru/posts/rukovodstvo-po-modul-nomu-tiestirovaniiu-chast-ii-utvierzhdieniia-napisaniie-nastoiashchiegho-tiesta-i-annotatsiia-dataprovider/
+* http://devacademy.ru/posts/obuchaiushchieie-rukovodstvo-po-modul-nomu-tiestirovaniiu-chast-iii-tiestirovaniie-zashchishchiennykh-chastnykh-mietodov-otchiety-o-pokrytii-i-indieks-crap/
+* http://devacademy.ru/posts/rukovodstvo-po-modul-nomu-tiestirovaniiu-chast-iv-imitiruiushchiie-obiekty-mietody-zaghlushki-i-vniedrieniie-zavisimosti/
+* http://devacademy.ru/posts/rukovodstvo-po-modul-nomu-tiestirovaniiu-chast-v-imitiruiushchiie-mietody-i-pierieopriedielieniie-konstruktorov/
