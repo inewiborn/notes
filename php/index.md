@@ -7,6 +7,12 @@
 * http://devacademy.ru/posts/rukovodstvo-po-modul-nomu-tiestirovaniiu-chast-v-imitiruiushchiie-mietody-i-pierieopriedielieniie-konstruktorov/
 
 лучше всего использовать версию "^5.7"
+
+```xml
+	<logging>
+	  <log type="coverage-html" target="./tmp/report"/>
+	</logging>
+```
 ###### Создание минимального пакета 
 
 * http://culttt.com/2014/05/07/create-psr-4-php-package/
