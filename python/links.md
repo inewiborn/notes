@@ -16,5 +16,9 @@
 ###### 5 способов использования подчеркивания (\_) в Python
 https://tproger.ru/translations/5-ways-of-using-underscore-in-python/
 
+###### asyncio
+http://itscreen.tk/blog/25-python-3-intro-v-asyncio/
+
 ###### Подборка всего и вся
 http://pep8.ru/
+
