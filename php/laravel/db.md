@@ -8,3 +8,12 @@ Illuminate\Support\Facades\Schema - Предоставляет набор удо
 
 Illuminate\Database\Schema\Blueprint - представляет отдельную таблицу
 
+Создание миграции
+```bash
+php artisan make:migration <имя созаваемой миграции>
+```
+
+Выполнение миграций
+```
+php artisan migrate
+```
