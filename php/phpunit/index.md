@@ -105,12 +105,29 @@ exeptions
 ```php
 	public function  testAddUser_ShortPass ()  { 
 		try  { 
-			$this->store->addUser (  "ЬоЬ  williams",  "bob@example.com",  "ff"  ) ; 
+			$this->store->addUser (  "Bob  williams",  "bob@example.com",  "ff"  ) ; 
 			$this->fail("Ожидалось исключение из-за короткого пароля");
 		} catch (Exception $e) {
 		}
 	) 
 ```
+```php
+	pubic function  testAddUser_ShortPass ()  { 
+		$this->expectException(Exception::class);
+		$this->store->addUser( "Bob  williams",  "bob@example. com",  "ff"  );
+	}
+```
+
+```php
+	/**
+     * @expectedException Exception
+     */
+	pubic function  testAddUser_ShortPass ()  { 
+		$this->expectException(Exception::class);
+		$this->store->addUser( "Bob  williams",  "bob@example. com",  "ff"  );
+	}
+```
+
 @dataProvider
 ```php
 use PHPUnit\Framework\TestCase;
